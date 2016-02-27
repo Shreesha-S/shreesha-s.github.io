@@ -1,0 +1,29 @@
+name {
+	color: #000;
+	font-family: Georgia, serif;
+	font-weight: bold;
+	font-size: 60px;
+}
+table {
+	width: 100%;
+	text-align: center;
+}
+.container {
+	margin-right:auto;
+	margin-left:auto;
+	padding-left:15px;
+	padding-right:15px;
+	width: 900px;
+}
+.fb-color {
+	color: #3C599F;
+}
+.li-color {
+	color: #0085AE;
+}
+.gh-color {
+	color:#070709;
+}
+.mail-color {
+	color: red;
+}
