@@ -15,7 +15,6 @@ table {
 pes-color {
   color: navy;
   font-weight: bold;
-  font-size: 24;
 }
 red-color {
   color: red;
